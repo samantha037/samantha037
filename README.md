@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning Programming at Unicollege, so far I'm enjoying myself although I do come across some challanges but I push myslef 
+to learn and understand every topic given. I chose programming because I've always been curiose about how Computers, Websites, Apps were created 
+and who created then. So i found out that this cause can give all that informantion, I've developed a hobby in playing video games and watching coding videos on YouTube
+and learning about the History of coding.
